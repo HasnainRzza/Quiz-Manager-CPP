@@ -1,0 +1,11 @@
+/Users/HP/Desktop/oop_project/pf_quiz/
+/Users/HP/Desktop/oop_project/oop_quiz/
+/Users/HP/Desktop/oop_project/ITC_quiz/
+/Users/HP/Desktop/oop_project/datastructure_quiz/
+/Users/HP/Desktop/oop_project/AOA_quiz/
+/Users/HP/Desktop/oop_project/SRE_quiz/
+/Users/HP/Desktop/oop_project/RM_quiz/
+/Users/HP/Desktop/oop_project/BDA_quiz/
+/Users/HP/Desktop/oop_project/AI_quiz/
+/Users/HP/Desktop/oop_project/DL_quiz/
+/Users/HP/Desktop/oop_project/DIP_quiz/
